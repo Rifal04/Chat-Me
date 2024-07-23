@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="text">#000000</color>
+    <color name="text1">#9FBAC3</color>
+    <color name="text2">#225165</color>
+    <color name="white">#ffff</color>
+    <color name="gray">#373636</color>
+    <color name="link">#2E4CEF</color>
+    <color name="background">#FF8300</color>
+    <color name="backgroundChat">#FCD79A</color>
+    <color name="button">#FF4500</color>
+    <color name="card">#FF3700B3</color>
+    <color name="chatUser">#AACF74</color>
+    <color name="chatBot">#74C6C6</color>
+    <color name="mimosa">#B4F8C8</color>
+
+
+</resources>

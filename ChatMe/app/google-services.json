@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1097841118910",
+    "firebase_url": "https://chat-me-35a83-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "chat-me-35a83",
+    "storage_bucket": "chat-me-35a83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097841118910:android:000f995aeb40100224d8ef",
+        "android_client_info": {
+          "package_name": "com.example.chatme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA29mnWWvzb80Gd59x9gfbKjMitK7ALooc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097841118910:android:c77520665b94515524d8ef",
+        "android_client_info": {
+          "package_name": "com.example.nyoba"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA29mnWWvzb80Gd59x9gfbKjMitK7ALooc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
